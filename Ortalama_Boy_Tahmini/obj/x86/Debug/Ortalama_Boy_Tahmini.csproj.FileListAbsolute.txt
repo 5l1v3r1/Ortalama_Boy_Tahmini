@@ -1,0 +1,24 @@
+C:\Users\_DangerOusMaN_\Desktop\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\bin\Debug\Ortalama_Boy_Tahmini.exe
+C:\Users\_DangerOusMaN_\Desktop\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\bin\Debug\Ortalama_Boy_Tahmini.pdb
+C:\Users\_DangerOusMaN_\Desktop\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\_DangerOusMaN_\Desktop\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\Ortalama_Boy_Tahmini.Form1.resources
+C:\Users\_DangerOusMaN_\Desktop\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\Ortalama_Boy_Tahmini.Properties.Resources.resources
+C:\Users\_DangerOusMaN_\Desktop\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\_DangerOusMaN_\Desktop\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\_DangerOusMaN_\Desktop\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\Ortalama_Boy_Tahmini.exe
+C:\Users\_DangerOusMaN_\Desktop\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\Ortalama_Boy_Tahmini.pdb
+I:\Visual Studio\Visual C# .Net\Kendi Yaptıklarım\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\Ortalama_Boy_Tahmini.exe
+I:\Visual Studio\Visual C# .Net\Kendi Yaptıklarım\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\Ortalama_Boy_Tahmini.pdb
+I:\Visual Studio\Visual C# .Net\Kendi Yaptıklarım\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\bin\Debug\Ortalama_Boy_Tahmini.exe
+I:\Visual Studio\Visual C# .Net\Kendi Yaptıklarım\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\bin\Debug\Ortalama_Boy_Tahmini.pdb
+I:\Visual Studio\Visual C# .Net\Kendi Yaptıklarım\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Visual Studio\Visual C# .Net\Kendi Yaptıklarım\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\Ortalama_Boy_Tahmini.Form1.resources
+I:\Visual Studio\Visual C# .Net\Kendi Yaptıklarım\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\Ortalama_Boy_Tahmini.Properties.Resources.resources
+I:\Visual Studio\Visual C# .Net\Kendi Yaptıklarım\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Visual Studio\Visual C# .Net\Kendi Yaptıklarım\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DangerOusMaN\Desktop\Programlarım\C#\Kendi Yaptıklarım\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\Ortalama_Boy_Tahmini.exe
+C:\Users\DangerOusMaN\Desktop\Programlarım\C#\Kendi Yaptıklarım\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\Ortalama_Boy_Tahmini.pdb
+F:\Programlarım\C#\Kendi Yaptıklarım\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\Ortalama_Boy_Tahmini.exe
+F:\Programlarım\C#\Kendi Yaptıklarım\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\Ortalama_Boy_Tahmini.pdb
+X:\VB6 - C# Projelerim\PROJELERİM ESKİ\c#\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\Ortalama_Boy_Tahmini.exe
+X:\VB6 - C# Projelerim\PROJELERİM ESKİ\c#\Ortalama_Boy_Tahmini\Ortalama_Boy_Tahmini\obj\x86\Debug\Ortalama_Boy_Tahmini.pdb
